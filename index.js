@@ -21,7 +21,7 @@ const accountTransport = nodemailer.createTransport({
     secure: true,
     auth:{
         user: "no.reply.automatedemailsystem@gmail.com",
-        pass: "sohpocttkoopvkqu"
+        pass: "ejgyqrkbdctkahtn"
     }
 })
 
